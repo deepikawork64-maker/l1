@@ -1,0 +1,6 @@
+{
+  "name": "SummitOps — Event Invitation & Logistics Command",
+  "description": "Centralised event invitation, response tracking, Google Workspace sync, and logistics allocation dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
